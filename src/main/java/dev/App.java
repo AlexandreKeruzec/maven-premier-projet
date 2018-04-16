@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        String asciiArt = FigletFont.convertOneLine("App");
+        String asciiArt = FigletFont.convertOneLine("¯\\_(°_°)_/¯");
         System.out.println(asciiArt);
     }
 }
